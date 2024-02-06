@@ -9,9 +9,9 @@
 ## About me
 <img src="https://github.com/erikalee1217/erikalee1217/assets/43957055/781a627b-1c85-479d-86b1-d97cf0b5cf41" width="400">
 
-- 🔭 I’m currently studying MS in Information Science @ University of Illinois Urbana-Champaign
-- 🌱 I’m currently learning Natural Language Processing (NLP), Large Language Models (LLMs), Database Systems
-- ⚡ Fun fact: I'm always on the way traveling! I've been to 30+ countries/regions and love exploring new stuffs!
+ 🔭 I’m currently studying MS in Information Science @ University of Illinois Urbana-Champaign <br>
+ 🌱 I’m currently learning Natural Language Processing (NLP), Large Language Models (LLMs), Database Systems <br>
+ ⚡ Fun fact: I'm always on the way traveling! I've been to 30+ countries/regions and love exploring new stuffs!
 
 ## Language and Tools
 #### Programming Languages
