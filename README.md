@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/-C++-483D8B?style=flat&logo=Cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-2F4F4F?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-9370DB?style=flat&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-B22222?style=flat&logo=HTML&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-B22222?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-4169E1?style=flat&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-008000?style=flat&logo=PHP&logoColor=white)
